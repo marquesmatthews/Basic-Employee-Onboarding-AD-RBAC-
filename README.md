@@ -27,5 +27,5 @@ The solution was to build out a basic employee onboarding pipeline in active dir
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
-* [Add your second key accomplishment here]
-* [Add your third key accomplishment here]
+* Implemented RBAC with security groups mapped to each department
+* Diagnosed and resolved a multi-cause access issue (wrong OU + missing group membership)

@@ -1,7 +1,7 @@
 # Basic Employee Onboarding (AD)(RBAC)
  
 ## Problem Statement
-Before this project, the problem was Northstar Medical group, a sample healthcare company that relieved relied on an MSP to manage its IT operations. As the company grew, the MSP struggled to keep everything organized, and user accounts and permissions were managed manually. Since Northstar Medical Group handles sensitive patient information, the lack of structure and poor account management created a serious HIPAA compliance and security risk.
+Before this project, the problem was Northstar Medical group, a sample healthcare company that relied on an MSP to manage its IT operations. As the company grew, the MSP struggled to keep everything organized, and user accounts and permissions were managed manually. Since Northstar Medical Group handles sensitive patient information, the lack of structure and poor account management created a serious HIPAA compliance and security risk.
 
  
 ## Solution Overview

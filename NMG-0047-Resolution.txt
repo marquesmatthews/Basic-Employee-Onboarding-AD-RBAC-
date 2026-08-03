@@ -1,1 +1,27 @@
+I found that Jane was in the Operations OU, but she is supposed to be in the HR OU.Because she's a HR Payroll Specialist.  
 
+Jane Cooper is currently a member of Operations-users. She should be a member of HR-users  
+
+The problem was Jane post to be a HR-user, but she was an operation-user. That's why her access was being denied  
+
+Ticket number: NMG-0047  
+
+Affected user: Jane Cooper(jcooper@NMG.com)  
+
+Issue reported: Unable to access HR shared resources. Desktop polices and mapped drives from teammates  
+
+Root cause: The issue occurs because Jane Cooper was placed inside the wrong OU and Security Group! This led to her being  
+
+granted the wrong access.  
+
+Fix applied: Once I seen Jane was in Operation-user instead if HR. I moved her to HR which is the correct one.  
+
+I also changed her security group to HR-user  
+
+Verification: After moving her to the HR OU 1 double checked and by taking a screenshot  
+
+Date resolved: 6/30/26  
+
+Resolved by: Marques Matthews 
+
+ 

@@ -1,8 +1,7 @@
 # Basic Employee Onboarding (AD)(RBAC)
  
 ## Problem Statement
-Before this project, the problem was Northstar Medical group, a sample healthcare company that relied on an MSP to manage its IT operations. As the company grew, the MSP struggled to keep everything organized, and user accounts and permissions were managed manually. Since Northstar Medical Group handles sensitive patient information, the lack of structure and poor account management created a serious HIPAA compliance and security risk.
-
+Before this project, Northstar Medical Group relied on an MSP to manage its IT operations. As the company grew, user accounts and permissions became disorganized, onboarding was handled manually, and inactive accounts weren't always disabled after employees left the company. Since this is a healthcare environment, these issues created security and HIPAA compliance risks
  
 ## Solution Overview
 The solution was to build out a basic employee onboarding pipeline in active directory. I set up the RBAC matrix and ensured users were given access ONLY according to their role. I also simulated a mock where a user was provisioned the incorrect level of access!

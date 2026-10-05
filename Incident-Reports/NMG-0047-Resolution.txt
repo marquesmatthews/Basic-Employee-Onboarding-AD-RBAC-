@@ -20,7 +20,7 @@ I also changed her security group to HR-user
 
 Verification: After moving her to the HR OU 1 double checked and by taking a screenshot  
 
-Date resolved: 6/30/26  
+Date resolved: 10/03/26  
 
 Resolved by: Marques Matthews 
 

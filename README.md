@@ -7,7 +7,6 @@ Before this project, Northstar Medical Group relied on an MSP to manage its IT o
 The solution was to build out a basic employee onboarding pipeline in active directory. I set up the RBAC matrix and ensured users were given access ONLY according to their role. I also simulated a mock where a user was provisioned the incorrect level of access!
 
 ## Video Walkthrough
-https://www.loom.com/share/6aeedd79d2084624a258fea66e315cbd
 
 ## Tools Used
 * Windows Server

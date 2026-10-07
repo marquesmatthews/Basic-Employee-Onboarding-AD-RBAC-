@@ -26,7 +26,7 @@ The result is an onboarding process where access is predictable, auditable, and 
 
 ## Video Walkthrough
 
-[▶ Watch the walkthrough on Loom](https://www.loom.com/share/6aeedd79d2084624a258fea66e315cbd)
+[▶ Watch the walkthrough on Loom](https://www.loom.com/share/e192e5a74fdf4f498814f7dd6159348f)
 
 ## Tools Used
 

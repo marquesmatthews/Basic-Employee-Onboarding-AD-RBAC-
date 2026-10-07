@@ -35,7 +35,7 @@ The result is an onboarding process where access is predictable, auditable, and 
 - VirtualBox
 - UTM
 - RBAC
-- GitHub
+
 
 ## Project Timeline
 
